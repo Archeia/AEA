@@ -4,7 +4,7 @@
 #------------------------------------------------------------------------------
 # Author: Archeia
 #------------------------------------------------------------------------------
-# April 23, 2025 - Fixed crashing issue when using aboslute and healing ignored.
+# April 23, 2025 - Fixed crashing issue when using absolute and healing ignored.
 # April 01, 2015    - Fixed targeting conditions.
 # March 01, 2015    - Fixed "Ally" targeting. 
 # November 21, 2012 - Started and Finished Script.
